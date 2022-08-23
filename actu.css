@@ -34,3 +34,9 @@ header{
   border: solid black 1px;
   margin: 20px auto;
 }
+
+.content-para{
+  text-align: center;
+  color: #fff;
+  padding: 20px;
+}
